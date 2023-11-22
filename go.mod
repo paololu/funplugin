@@ -1,4 +1,4 @@
-module github.com/httprunner/funplugin
+module github.com/paololu/funplugin
 
 go 1.18
 
