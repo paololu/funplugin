@@ -8,7 +8,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/httprunner/funplugin/fungo"
+	"github.com/paololu/funplugin/fungo"
 	"github.com/pkg/errors"
 )
 

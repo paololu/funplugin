@@ -7,7 +7,7 @@ import (
 	"github.com/pkg/errors"
 	"google.golang.org/grpc"
 
-	"github.com/httprunner/funplugin/fungo/protoGen"
+	"github.com/paololu/funplugin/fungo/protoGen"
 	jsoniter "github.com/json-iterator/go"
 )
 

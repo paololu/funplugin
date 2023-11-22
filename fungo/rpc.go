@@ -3,9 +3,11 @@ package fungo
 import (
 	"encoding/gob"
 	"net/rpc"
-
 	"github.com/hashicorp/go-plugin"
 )
+func test(){
+
+}
 
 func init() {
 	gob.Register(new(funcData))

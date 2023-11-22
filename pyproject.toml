@@ -5,7 +5,7 @@ description = "Python plugin over gRPC for funplugin"
 license = "Apache-2.0"
 authors = ["debugtalk <mail@debugtalk.com>"]
 readme = "docs/python-grpc-plugin.md"
-repository = "https://github.com/httprunner/funplugin"
+repository = "https://github.com/paololu/funplugin"
 
 [tool.poetry.dependencies]
 python = "^3.6"

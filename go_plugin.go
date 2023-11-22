@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"runtime"
 
-	"github.com/httprunner/funplugin/fungo"
+	"github.com/paololu/funplugin/fungo"
 )
 
 // goPlugin implements golang official plugin

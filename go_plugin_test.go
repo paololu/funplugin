@@ -10,7 +10,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/httprunner/funplugin/myexec"
+	"github.com/paololu/funplugin/myexec"
 	"github.com/stretchr/testify/assert"
 )
 

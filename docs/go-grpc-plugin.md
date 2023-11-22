@@ -7,7 +7,7 @@ It is recommended to use `golang plugin over gRPC` in most cases. This should be
 Before you develop your golang plugin, you need to install an dependency as SDK.
 
 ```bash
-$ go get -u github.com/httprunner/funplugin
+$ go get -u github.com/paololu/funplugin
 ```
 
 ## create plugin functions
@@ -26,7 +26,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/httprunner/funplugin/fungo"
+	"github.com/paololu/funplugin/fungo"
 )
 
 func SumTwoInt(a, b int) int {

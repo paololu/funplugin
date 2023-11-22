@@ -9,7 +9,7 @@ import (
 	"github.com/hashicorp/go-plugin"
 	"github.com/pkg/errors"
 
-	"github.com/httprunner/funplugin/fungo"
+	"github.com/paololu/funplugin/fungo"
 )
 
 type rpcType string
